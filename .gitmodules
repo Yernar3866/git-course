@@ -1,6 +1,5 @@
 [submodule "git-course"]
     path = git-course
-    url = https://github.com/Yernar3866/git-course.git
 
 echo '[submodule "git-course"]' >> .gitmodules
 echo '    path = git-course' >> .gitmodules
